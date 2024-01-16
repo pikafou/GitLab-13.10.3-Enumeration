@@ -16,7 +16,7 @@ A simple Bash script designed to perform user enumeration on a vulnerable GitLab
 ## Setup & Configuration
 1. Clone the repository onto your desired platform
 ```bash
-git clone https://github.com/pikafou/repositoryname.git
+git clone https://github.com/pikafou/repositoryname.git](https://github.com/pikafou/GitLab-13.10.3-Enumeration.git
 cd pikafou
 chmod +x enum.sh
 ./enum.sh -u http://gitlab.example.com --wordlist /path/to/username.txt
